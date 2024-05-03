@@ -25,7 +25,8 @@ author:
   name             : "Li Yunai"
   pronouns         : "she/her"  
   bio              : "Hi! I am a math major student from SJTU"
-  employer         : "Shanghai Jiao Tong University (Alumni of Chengdu No.7 highschool)"
+  employer         : "Shanghai Jiao Tong University 
+                    (Alumni of Chengdu No.7 highschool)"
   uri              : # URL
   email            : "li5yun2ai8@gmail.com" 
 
@@ -63,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
