@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please check my latest cv [here](files/Li Yunai_CV_SJTU.pdf):)
+Please check my latest cv [here](files/Li Yunai_CV_SJTU.pdf) :)
