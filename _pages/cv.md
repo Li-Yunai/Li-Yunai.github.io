@@ -7,8 +7,6 @@ redirect_from: %}
   - /resume
 ---
 
-{% include base_path
-
 {% include base_path %}
 
 Please check my latest cv [here](files/Li Yunai_CV_SJTU.pdf) :)
