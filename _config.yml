@@ -21,7 +21,7 @@ repository               : "Li-Yunai/Li-Yunai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo Large.png"
   name             : "Li Yunai"
   pronouns         : "she/her"  
   bio              : "Welcome to my homepage! I am a math major student from SJTU"
