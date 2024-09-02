@@ -14,7 +14,7 @@ on developing computationally efficient algorithms with theoretical guarantees. 
 I’m enthusiastic about exploring the related areas and would be excited to discuss about further
 opportunities (for 25fall phd) if you see the potential! 
 
-<div id="clustrmap-container" style="width: 400px; height: 400px;">
+<div id="clustrmap-container" style="width: 250px; height: 250px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hmfx7xFdx8C4D8Vy0HrwakA8Zlc3Svr_j9mwDKuApIo"></script>
 </div>
 
