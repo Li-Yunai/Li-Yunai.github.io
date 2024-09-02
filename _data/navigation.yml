@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
     
-  - title: "Projects"
+  - title: "Courses"
     url: /portfolio/
     
   - title: "CV"
