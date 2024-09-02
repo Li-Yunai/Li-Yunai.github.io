@@ -17,8 +17,10 @@ opportunities (for 25fall phd) if you see the potential!
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hmfx7xFdx8C4D8Vy0HrwakA8Zlc3Svr_j9mwDKuApIo"></script>
 <style>
     #clstr_globe + iframe, #clstr_globe + div > canvas {
-        width: 50px !important; /* 更改为所需的宽度 */
-        height: 50px !important; /* 更改为所需的高度 */
+        width: 100px !important; /* 根据需要设置宽度 */
+        height: 100px !important; /* 根据需要设置高度 */
+        transform: scale(0.5) !important; /* 调整显示比例 */
+        transform-origin: top left !important; /* 设置缩放的基准点 */
     }
 </style>
 
