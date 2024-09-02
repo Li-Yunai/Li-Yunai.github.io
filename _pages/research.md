@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 As an undergraduate student, I am very lucky to be advised by (in the order of my research timeline): </br>
