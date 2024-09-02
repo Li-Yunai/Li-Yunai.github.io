@@ -15,7 +15,13 @@ I’m enthusiastic about exploring the related areas and would be excited to dis
 opportunities (for 25fall phd) if you see the potential! 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hmfx7xFdx8C4D8Vy0HrwakA8Zlc3Svr_j9mwDKuApIo"></script>
-
+<style>
+    /* 选中 ClustrMaps 插件的容器并缩放 */
+    #clstr_globe + iframe, #clstr_globe + div > canvas {
+        transform: scale(0.3); /* 根据需要缩小比例，0.6表示缩小到60% */
+        transform-origin: top left; /* 缩放的锚点，可以调整为其他位置 */
+    }
+</style>
 
 
 
