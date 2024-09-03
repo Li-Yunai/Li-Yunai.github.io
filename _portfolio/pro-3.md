@@ -1,5 +1,5 @@
 ---
-title: "Generative Models for Aircrafts' Icing Image Prediction"
+title: "PINNs for Helmholtz Equations’ Forward/Inverse Problems in Multiple Propagation Mediums Beijing"
 excerpt: "*Keywords: Airfoil Ice, GAN, Variational Autoencoder*<br/><img src='/images/IMG_3095.png' width='300'>"
 collection: portfolio
 ---
