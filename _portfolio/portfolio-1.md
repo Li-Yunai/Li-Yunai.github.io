@@ -1,6 +1,6 @@
 ---
 title: "Generative Models for Aircrafts' Icing Image Prediction"
-excerpt: "*Keywords: Airfoil Ice, GAN, Variational Autoencoder*<br/><img src='/images/IMG_3095.png' width='250'>"
+excerpt: "*Keywords: Airfoil Ice, GAN, Variational Autoencoder*<br/><img src='/images/IMG_3095.png' width='300'>"
 collection: portfolio
 ---
 
