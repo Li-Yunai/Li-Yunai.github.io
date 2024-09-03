@@ -1,6 +1,6 @@
 ---
 title: "Neural Encoding in Balanced Networks: Data-Driven Exploration"
-excerpt: "*Keywords: Excitatory-Inhibitory Balance, SNN, autoencoder*<br/><img src='/images/IMG_3094.png' width='350'>"
+excerpt: "*Keywords: Excitatory-Inhibitory Balance, SNN, autoencoder*<br/><img src='/images/IMG_3094.png' width='450'>"
 collection: portfolio
 ---
 
