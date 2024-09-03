@@ -13,4 +13,4 @@ reconstruction; implemented data-driven models (U-Net, VAE) to decode spike trai
 - Analyzed performance variations brought by the balance of snn across MNIST and CIFAR-10 datasets.
   
 [[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
-[[slides]](https://li-yunai.github.io//portfolio/portfolio-1/)
+[[slides]](../files/pro2.pdf)
