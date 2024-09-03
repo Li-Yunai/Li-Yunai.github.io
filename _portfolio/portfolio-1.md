@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Generative Models for Aircrafts' Icing Image Prediction"
+excerpt: "*Keywords: Airfoil Ice, GAN, Variational Autoencoder*<br/><img src='/images/IMG_3095.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Generative Models for Aircrafts' Icing Image Prediction**
+
+*Keywords: Airfoil Ice, GAN, Variational Autoencoder*
+
+**Project Overview**
+
+- Designed VAE and GAN models for high-dimensional icing image prediction from icing-condition data of aircraft wings. Enhanced the models with techniques like batch normalization and WGAN.
+- Achieved better detail preservation (e.g., ice horn) in generated images, though challenges with boundary smoothness were noted.
+
