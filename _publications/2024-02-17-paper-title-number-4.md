@@ -1,12 +1,16 @@
 ---
-title: "Paper Title Number 4"
+title: "Investigating Optimizer-Induced Implicit Bias in Transformers for NLP Tasks"
+excerpt: "*Keywords: Self-attention Mechanism, Next Token Prediction, Adam/AdamW, optimization*<br/><img src='/images/IMG_3105.png' width='350'>"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+*Keywords: Self-attention Mechanism, Next Token Prediction, Adam/AdamW, optimization*
+
+**Advisors:** Prof. Yingbin Liang, Ohio State University; Prof. Jing Yang, Pennsylvania State University
+
+**Project Overview**
+
+- Extending current work on implicit biases in transformers by providing theoretical analyses of training dynamics in specific NLP tasks, such as next token prediction.
+- Investigating optimizer-induced biases of Adam/AdamW, moving beyond empirical observations to provide theoretical insights into their advantages and efficiency in transformer models.
+- Relaxing existing assumptions in the current work to broaden the theoretical understanding of transformer training, with a focus on practical implications in NLP tasks.
+
