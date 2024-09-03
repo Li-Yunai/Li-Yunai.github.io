@@ -3,7 +3,7 @@ title: " Multinomial Logit Modeling and Numerical Optimization for Air Ticketing
 excerpt: "*Keywords: Feature Engineering; Multinomial Logit Model; Numerical Optimization; Consumer Behavior Analysis*<br/><img src='/images/IMG_3100 2.png' width='450'>"
 collection: portfolio
 ---
-
+{% include base_path %}
 *Keywords:Feature Engineering; Multinomial Logit Model; Numerical Optimization; Consumer Behavior Analysis*
 
 **Project Overview**
