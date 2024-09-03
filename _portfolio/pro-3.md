@@ -14,4 +14,4 @@ medium), addressing both forward and inverse problems.
 and discussed the effects of noises on PINN solutions.
 
 [[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
-[[slides]](../files/pro3.pdf)
+[[slides]](/files/pro3.pdf)
