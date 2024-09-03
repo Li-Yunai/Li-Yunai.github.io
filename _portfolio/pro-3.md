@@ -11,6 +11,7 @@ collection: portfolio
 - Used Physically Informed Neural Network (PINN) to solve the Helmholtz equation in various fields (Propagation
 medium), addressing both forward and inverse problems.
 - Empirically Analyzed the impact of sampling, field smoothness, and dimensions on solution accuracy. Simulated
-and discussed the effects of noises on PINN solutions. \\
+and discussed the effects of noises on PINN solutions.
+
 [[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
 [[slides]](https://li-yunai.github.io//portfolio/portfolio-1/)
