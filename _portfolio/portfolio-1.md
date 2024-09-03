@@ -12,4 +12,4 @@ collection: portfolio
 - Achieved better detail preservation (e.g., ice horn) in generated images, though challenges with boundary smoothness were noted.
   
 [[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
-[[slides]](../files/pro1.pdf) 
+[[slides]](/files/pro1.pdf) 
