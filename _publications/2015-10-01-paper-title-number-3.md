@@ -1,12 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "Theoretical Framework and Provable Guarantee for Weak-to-strong Generalization"
+excerpt: "*Keywords: Weak supervision, data distillation, learning theory, Representation Learning*<br/><img src='/images/img3.png' width='350'>"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+*Keywords: Weak supervision, data distillation, learning theory, Representation Learning*
+
+**Advisor:** Prof. [Qi Lei](https://cecilialeiqi.github.io/), New York University
+
+**Project Overview**
+
+- Developing a theoretical framework for [Open AI's cutting-edge paper on weak-to-strong generalization](https://arxiv.org/abs/2312.09390). The focus is on quantifying the gains of the weak-supervised strong student model across various downstream tasks.
+- Providing theoretical guarantees for future weak-supervised models (e.g., RLHF, learning under restricted data access), offering new insights into data distillation and enhancing understanding of weak supervision.
+
+  
+[[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
+[[slides]](https://li-yunai.github.io//portfolio/portfolio-1/)
