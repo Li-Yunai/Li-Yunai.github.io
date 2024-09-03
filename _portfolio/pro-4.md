@@ -1,14 +1,17 @@
 ---
-title: "Generative Models for Aircrafts' Icing Image Prediction"
-excerpt: "*Keywords: Airfoil Ice, GAN, Variational Autoencoder*<br/><img src='/images/IMG_3095.png' width='300'>"
+title: " Multinomial Logit Modeling and Numerical Optimization for Air Ticketing Behavior Analysis"
+excerpt: "*Keywords: Feature Engineering; Multinomial Logit Model; Numerical Optimization; Consumer Behavior Analysis*<br/><img src='/images/IMG_3100 2.png' width='350'>"
 collection: portfolio
 ---
 
-*Keywords: Airfoil Ice, GAN, Variational Autoencoder*
+*Keywords:Feature Engineering; Multinomial Logit Model; Numerical Optimization; Consumer Behavior Analysis*
 
 **Project Overview**
 
-- Designed VAE and GAN models for high-dimensional icing image prediction from icing-condition data of aircraft wings. Enhanced the models with techniques like batch normalization and WGAN.
-- Achieved better detail preservation (e.g., ice horn) in generated images, though challenges with boundary smoothness were noted.//
+- Conducted feature engineering on a large-scale real-world dataset of air ticket purchasing behaviors.
+- Developed a multinomial logit model and integrated optimization methods (line-search/trust-region) for utility
+functions. Quantified variable influence and evaluated algorithms’ convergence with numerical optimization
+theory.
+
 [[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
 [[slides]](https://li-yunai.github.io//portfolio/portfolio-1/)
