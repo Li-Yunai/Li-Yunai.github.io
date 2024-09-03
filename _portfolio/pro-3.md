@@ -1,6 +1,6 @@
 ---
 title: "PINNs for Helmholtz Equations’ Forward/Inverse Problems in Multiple Propagation Mediums"
-excerpt: "*Keywords: Physics-informed Machine Learning; PDE; Inverse Problems*<br/><img src='/images/IMG_3096.png' width='350'>"
+excerpt: "*Keywords: Physics-informed Machine Learning; PDE; Inverse Problems*<br/><img src='/images/IMG_3096.png' width='450'>"
 collection: portfolio
 ---
 
