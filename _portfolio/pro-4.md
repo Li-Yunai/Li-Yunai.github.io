@@ -14,4 +14,4 @@ functions. Quantified variable influence and evaluated algorithms’ convergence
 theory.
 
 [[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
-[[A report in Chinese]](/files/pro4)
+[[A report in Chinese]](/files/pro4.pdf)
