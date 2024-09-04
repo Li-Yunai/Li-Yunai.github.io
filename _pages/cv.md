@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Please check my latest CV [here](/files/ CV_YunaiLi.pdf) :)  
+Please check my latest CV [here](/files/CV_YunaiLi.pdf) :)  
 
