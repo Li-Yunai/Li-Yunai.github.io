@@ -27,17 +27,26 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 <style>
-  #clustr_globe {
+  /* 隐藏插件的样式 */
+  #clustr_globe, #clustrmap-container {
     display: none;
   }
 </style>
 
+<!-- ClustrMaps 插件 -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nk61BIOA7-yeuOuI5QgAKFh0WYfjsshzeakewCI-030"></script>
+
 <script>
   window.onload = function() {
+    // 获取 clustrmap 容器
     const globe = document.getElementById('clustrmap-container');
-    globe.addEventListener('click', function(event) {
-      event.preventDefault();
-    }, true);
+    
+    // 如果元素存在，添加事件监听
+    if (globe) {
+      globe.addEventListener('click', function(event) {
+        event.preventDefault();  // 阻止默认行为
+      }, true);
+    }
   };
 </script>
+
