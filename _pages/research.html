@@ -26,3 +26,18 @@ author_profile: true
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
+<style>
+  #clustr_globe {
+    display: none;
+  }
+</style>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nk61BIOA7-yeuOuI5QgAKFh0WYfjsshzeakewCI-030"></script>
+<script>
+  window.onload = function() {
+    const globe = document.getElementById('clustrmap-container');
+    globe.addEventListener('click', function(event) {
+      event.preventDefault();
+    }, true);
+  };
+</script>
