@@ -13,21 +13,22 @@ on developing computationally efficient algorithms with theoretical guarantees. 
 
 I’m enthusiastic about exploring the related areas and would be excited to discuss about further
 opportunities **(for 25fall phd)** if you see the potential! 
+<style>
+  #clustr_globe {
+    display: none;
+  }
+</style>
 
-<div id="clustrmap-container" style="width: 250px; height: 250px; position: relative;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hmfx7xFdx8C4D8Vy0HrwakA8Zlc3Svr_j9mwDKuApIo"></script>
-</div>
-
+<script type="text/javascript" id="clustr_globe" src="//clustrmaps.com/globe.js?d=hmfx7xFdx8C4D8Vy0HrwakA8Zlc3Svr_j9mwDKuApIo"></script>
 <script>
-  
-    window.onload = function() {
-    
-        const globe = document.getElementById('clustrmap-container');
-        globe.addEventListener('click', function(event) {
-            event.preventDefault();
-        }, true);
-    };
+  window.onload = function() {
+    const globe = document.getElementById('clustrmap-container');
+    globe.addEventListener('click', function(event) {
+      event.preventDefault();
+    }, true);
+  };
 </script>
+
 
 
 
