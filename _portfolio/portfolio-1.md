@@ -11,5 +11,5 @@ collection: portfolio
 - Designed VAE and GAN models for high-dimensional icing image prediction from icing-condition data of aircraft wings. Enhanced the models with techniques like batch normalization and WGAN.
 - Achieved better detail preservation (e.g., ice horn) in generated images, though challenges with boundary smoothness were noted.
   
-[[code]](https://li-yunai.github.io//portfolio/portfolio-1/)
+[[code(to be uploaded)]](https://li-yunai.github.io//portfolio/portfolio-1/)
 [[slides]](/files/pro1.pdf) 
