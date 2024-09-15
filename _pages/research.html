@@ -29,7 +29,7 @@ author_profile: true
 <style>
   /* 隐藏插件的样式 */
   #clustr_globe, #clustrmap-container {
-    display: none;
+    display: none !important; /* 确保隐藏 */
   }
 </style>
 
@@ -38,14 +38,12 @@ author_profile: true
 
 <script>
   window.onload = function() {
-    // 获取 clustrmap 容器
+    // 获取 ClustrMaps 容器
     const globe = document.getElementById('clustrmap-container');
     
-    // 如果元素存在，添加事件监听
+    // 如果元素存在，将其隐藏
     if (globe) {
-      globe.addEventListener('click', function(event) {
-        event.preventDefault();  // 阻止默认行为
-      }, true);
+      globe.style.display = 'none';
     }
   };
 </script>
