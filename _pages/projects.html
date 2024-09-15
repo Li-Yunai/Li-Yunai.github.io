@@ -20,24 +20,28 @@ author_profile: true
 <br>  
 <a href="/files/e3.pdf"><i>The Solution and Properties of Three-Dimensional Linear Systems with Constant Coefficients (in Chinese)</i></a>  
 <style>
-  /* 隐藏插件的样式 */
   #clustr_globe, #clustrmap-container {
-    display: none;
+    display: none !important; 
   }
 </style>
 
 <!-- ClustrMaps 插件 -->
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tRDTPGarC-5RCPo80HcMqy2MkHX-AEqQ5EzUfyP2dfA"></script>
+
 <script>
   window.onload = function() {
-    // 获取 clustrmap 容器
+
     const globe = document.getElementById('clustrmap-container');
+    const globeScript = document.getElementById('clstr_globe');
     
-    // 如果元素存在，添加事件监听
+
     if (globe) {
-      globe.addEventListener('click', function(event) {
-        event.preventDefault();  // 阻止默认行为
-      }, true);
+      globe.style.display = 'none'; 
+    }
+
+    // 防止插件的默认行为
+    if (globeScript) {
+      globeScript.style.display = 'none';  
     }
   };
 </script>
