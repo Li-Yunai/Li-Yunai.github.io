@@ -26,25 +26,6 @@ author_profile: true
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
-<style>
-  #clustr_globe, #clustrmap-container {
-    display: none; /* 隐藏插件的样式 */
-  }
-</style>
 
-<!-- ClustrMaps 插件 -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nk61BIOA7-yeuOuI5QgAKFh0WYfjsshzeakewCI-030"></script>
-
-<script>
-  window.onload = function() {
-    // 获取 ClustrMaps 容器
-    const globe = document.getElementById('clustrmap-container');
-    
-    // 如果元素存在，隐藏它
-    if (globe) {
-      globe.style.display = 'none';
-    }
-  };
-</script>
 
 
